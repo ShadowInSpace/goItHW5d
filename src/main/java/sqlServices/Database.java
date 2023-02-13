@@ -14,7 +14,7 @@ public class Database {
     }
 
     private final Connection connection;
-    private final String url = "jdbc:postgresql://localhost:5432/test";
+    private final String url = "jdbc:postgresql://localhost:5432/postgres";
     private final String user = "postgres";
     private final String password = "159753";
 
